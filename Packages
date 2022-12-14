@@ -45,6 +45,5 @@ conda install (package-name>
 conda list
 
 eg: conda search numpy
-#
 conda install numpy
 conda list
