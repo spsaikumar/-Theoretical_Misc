@@ -6,7 +6,16 @@ Conda allows you to create separate environments containing files, packages, and
 MacOS, Linux - Terminal window
 Windows - Command line prompt
 
+#reference
+https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
 
 conda --version
+
 conda update conda
+
 conda create --name <env-name> <package_name(to install it)>
+eg: conda create --name snowflakes biopython
+
+conda activate <env-nmae>           
+eg: conda activate snowflakes
