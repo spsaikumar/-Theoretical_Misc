@@ -38,3 +38,13 @@ eg: conda create --name snakes python=3.9
 python --version
 
 
+conda search <package-name>
+#Install this package into the current environment:
+conda install (package-name>
+#Check to see if the newly installed program is in this environment
+conda list
+
+eg: conda search numpy
+#
+conda install numpy
+conda list
