@@ -9,3 +9,4 @@ Windows - Command line prompt
 
 conda --version
 conda update conda
+conda create --name <env-name> <package_name(to install it)>
