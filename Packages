@@ -1,5 +1,7 @@
 Conda is a powerful package manager and environment manager 
 
+Conda allows you to create separate environments containing files, packages, and their dependencies that will not interact with other environments.
+
 
 MacOS, Linux - Terminal window
 Windows - Command line prompt
