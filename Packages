@@ -19,3 +19,7 @@ eg: conda create --name snowflakes biopython
 
 conda activate <env-nmae>           
 eg: conda activate snowflakes
+
+#To see a list of all your environments, type:
+conda info --envs
+
