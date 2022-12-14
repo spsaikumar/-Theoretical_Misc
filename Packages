@@ -32,3 +32,9 @@ conda activate base
 #Create a new environment named "snakes" that contains Python 3.9
 conda create --name <env-name>  <package>=x.x
 eg: conda create --name snakes python=3.9
+
+
+#Verify which version of Python is in your current environment:
+python --version
+
+
