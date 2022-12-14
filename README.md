@@ -1,1 +1,3 @@
 # -Theoretical_Misc
+
+In this repo, you will find important summary points related to AI, IT, Software ...
