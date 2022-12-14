@@ -17,9 +17,13 @@ conda update conda
 conda create --name <env-name> <package_name(to install it)>
 eg: conda create --name snowflakes biopython
 
+
 conda activate <env-nmae>           
 eg: conda activate snowflakes
 
 #To see a list of all your environments, type:
 conda info --envs
 
+#Change your current environment back to the default (base):
+conda activate 
+conda activate base
