@@ -1,1 +1,1 @@
-
+iterable - A sequence (string, tuple, list) or collection (set, dictionary, frozen set) or any other iterator.
